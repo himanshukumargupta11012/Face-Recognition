@@ -33,8 +33,8 @@ for each_person in os.listdir(data_folder):
 
 print("Data loaded")
 
-train_data_size = 10000
-test_data_size = 1000
+train_data_size = 1000
+test_data_size = 100
 
 diff = 0
 diff2 = 0
